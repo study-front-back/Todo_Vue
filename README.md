@@ -1,5 +1,5 @@
 # Todo_Vue
-> To-do list using Vue.js
+> To-do list using Vue
 
 ## Build Setup
 
